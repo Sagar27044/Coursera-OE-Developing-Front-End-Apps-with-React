@@ -2,7 +2,7 @@
 
 #### Overview
 
-This is the IBM Full Stack Developmer Chapter 4 Front-End Apps Final Project. The Paradise Nursery Shopping Application is a front-end web application that allows users to browse a variety of house plants and manage their shopping cart. Users can add plants to their cart, adjust quantities, and view total costs, all while enjoying an intuitive interface.
+This is the IBM Full Stack Developer Chapter 4 Front-End Apps Final Project. The Paradise Nursery Shopping Application is a front-end web application that allows users to browse a variety of house plants and manage their shopping cart. Users can add plants to their cart, adjust quantities, and view total costs, all while enjoying an intuitive interface.
 
 #### Features
 
@@ -19,15 +19,15 @@ This is the IBM Full Stack Developmer Chapter 4 Front-End Apps Final Project. Th
 #### Technologies Used
 
 - **Frontend**:
-  - React
-  - Redux Toolkit
+  - **React**
+  - **Redux Toolkit**
   - CSS
   - JavaScript
 - **Libraries**:
   - [React Router](https://reactrouter.com/) for navigation
   - [Styled Components](https://styled-components.com/) for styling (if applicable)
 
-## Getting Started
+#### Getting Started
 
 ##### Prerequisites
 
@@ -41,11 +41,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    ttps://github.com/RLirri/Final_Paradise_Nursery_Shoppng.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd
-   ```
+2. Navigate to the project directory
 
 3. Install the dependencies:
 
@@ -66,8 +62,10 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 - Browse the available plants and add your favorites to the cart.
 - Access the **Shopping Cart Page** to review your selections and proceed to checkout.
 
-## Screenshots
+#### Example Screenshots
 
-![Landing Page](path/to/landing-page-screenshot.png)
-![Product Listing Page](path/to/product-listing-page-screenshot.png)
-![Shopping Cart Page](path/to/shopping-cart-page-screenshot.png)
+![landingPage](https://github.com/user-attachments/assets/5b2eff4f-82ee-43cb-be76-4e97db0c7dd9)
+![plantSelection](https://github.com/user-attachments/assets/1c284364-4f48-4166-9183-b4a8c6de785a)
+![addsOnSelections](https://github.com/user-attachments/assets/8b233b23-0a88-46f8-ba46-127a562c9f53)
+![mealSelections](https://github.com/user-attachments/assets/bc57ccac-29bc-4a70-8226-aaba2c64e096)
+![totalCart](https://github.com/user-attachments/assets/d5488d59-79be-474e-84ef-1c17daec2253)
