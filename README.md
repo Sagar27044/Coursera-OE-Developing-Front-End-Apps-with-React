@@ -38,7 +38,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Clone the repository:
 
    ```bash
-   ttps://github.com/RLirri/Final_Paradise_Nursery_Shoppng.git
+   git clone https://github.com/RLirri/Final_Paradise_Nursery_Shoppng.git
    ```
 
 2. Navigate to the project directory
@@ -63,6 +63,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 - Access the **Shopping Cart Page** to review your selections and proceed to checkout.
 
 #### Example Screenshots
+##### Note: for demo purposes, I set all the images same
 
 ![landingPage](https://github.com/user-attachments/assets/5b2eff4f-82ee-43cb-be76-4e97db0c7dd9)
 ![plantSelection](https://github.com/user-attachments/assets/1c284364-4f48-4166-9183-b4a8c6de785a)
